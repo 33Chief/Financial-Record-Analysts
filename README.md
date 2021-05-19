@@ -1,7 +1,5 @@
 # Financial-Record-Analysts
 
-## PyBank
-
 ![image](https://user-images.githubusercontent.com/71952428/118830694-22485f80-b88d-11eb-88a6-15d01e55bcb6.png)
 
 
