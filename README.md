@@ -2,7 +2,8 @@
 
 ## PyBank
 
-![image](https://user-images.githubusercontent.com/71952428/118830355-e01f1e00-b88c-11eb-838d-29d4b43feaff.png)
+![image](https://user-images.githubusercontent.com/71952428/118830694-22485f80-b88d-11eb-88a6-15d01e55bcb6.png)
+
 
 * In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
