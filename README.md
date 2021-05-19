@@ -2,7 +2,7 @@
 
 ## PyBank
 
-![Revenue](Images/revenue-per-lead.png)
+![image](https://user-images.githubusercontent.com/71952428/118830355-e01f1e00-b88c-11eb-838d-29d4b43feaff.png)
 
 * In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
@@ -34,7 +34,8 @@
 
 ## PyPoll
 
-![Vote Counting](Images/Vote_counting.png)
+![image](https://user-images.githubusercontent.com/71952428/118830457-f4631b00-b88c-11eb-844a-8a094065ef81.png)
+
 
 * In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
