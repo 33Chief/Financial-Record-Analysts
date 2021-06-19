@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/71952428/118830694-22485f80-b88d-11eb-88a6-15d01e55bcb6.png)
 
 
-* In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
+* In this challenge, I was tasked with creating a Python script for analyzing the financial records of your company. I will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
 * Your task is to create a Python script that analyzes the records to calculate each of the following:
 
@@ -17,7 +17,7 @@
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-* As an example, your analysis should look similar to the one below:
+* As an example,my analysis will look similar to the one below:
 
   ```text
   Financial Analysis
@@ -29,16 +29,16 @@
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
 
-* In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+* In addition, my final script should both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll
 
 ![image](https://user-images.githubusercontent.com/71952428/118830457-f4631b00-b88c-11eb-844a-8a094065ef81.png)
 
 
-* In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
+* In this challenge, I are tasked with helping a small, rural town modernize its vote counting process.
 
-* You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
+* I was given a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
 
@@ -66,4 +66,4 @@
   -------------------------
   ```
 
-* In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+* In addition, my final script should both print the analysis to the terminal and export a text file with the results.
